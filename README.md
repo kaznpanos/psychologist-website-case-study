@@ -10,7 +10,7 @@ The project reorganised an existing site into a maintainable Next.js codebase wh
 
 ## Live website
 
-The deployment currently redirects to `talktoyourpsy.gr`, but the custom domain did not resolve during the final verification on 29 August 2026. A public link will be added after DNS is working reliably.
+[talktoyourpsy.vercel.app](https://talktoyourpsy.vercel.app/)
 
 ## My work
 
@@ -39,11 +39,11 @@ Next.js · TypeScript · React · Tailwind CSS · Resend · Google Calendar · V
 
 ### Desktop
 
-![Psychologist website homepage on desktop, captured from the verified local production code](assets/homepage.webp)
+![Psychologist website homepage on desktop, captured from the live deployment](assets/homepage.webp)
 
 ### Mobile
 
-![Psychologist website homepage on mobile, captured from the verified local production code](assets/mobile.webp)
+![Psychologist website homepage on mobile, captured from the live deployment](assets/mobile.webp)
 
 ## Architecture
 
