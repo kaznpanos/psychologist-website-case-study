@@ -45,6 +45,10 @@ Next.js · TypeScript · React · Tailwind CSS · Resend · Google Calendar · V
 
 ![Psychologist website homepage on mobile, captured from the live deployment](assets/mobile.webp)
 
+### Articles
+
+![Psychologist website article library, captured from the live deployment](assets/articles.webp)
+
 ## Architecture
 
 Next.js renders the public pages from structured content stored with the application. A server-side contact route validates submissions and sends email through Resend. Appointment booking is provided through a Google Calendar integration; there is no public database or administration interface in this project.
